@@ -12,8 +12,9 @@
 }
 
 .foto {
-  width: 40%;
+  width: 50%;
 }
+
 .svg {
   width: 100%;
 }
@@ -76,18 +77,22 @@
   width: 90%;
   background-color: #04aa6d;
 }
+
 .css {
   width: 80%;
   background-color: #2196f3;
 }
+
 .js {
   width: 85%;
   background-color: #f44336;
 }
+
 .git {
   width: 80%;
   background-color: #272525;
 }
+
 .bs {
   width: 80%;
   background-color: #ce36f4;

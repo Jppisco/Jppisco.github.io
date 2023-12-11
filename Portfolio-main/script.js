@@ -34,8 +34,8 @@ function animate(obj, initVal, lastVal, duration) {
 const load = function () {
   animate(barraHTML, 0, 90, 2000);
   animate(barrraCss, 0, 80, 2000);
-  animate(barraJs, 0, 50, 2000);
-  animate(barraGit, 0, 60, 2000);
+  animate(barraJs, 0, 80, 2000);
+  animate(barraGit, 0, 80, 2000);
   animate(barraBs, 0, 80, 2000);
 };
 
